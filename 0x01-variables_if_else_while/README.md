@@ -1,3 +1,3 @@
-#!bin/bash
-This is a repo for c varuable task
+#!/bin/bash
+This is eepo for variables
 
